@@ -1,0 +1,4 @@
+input[readonly]::selection {
+  color: #ffffff; /* Text color */
+  background-color: #ff9900; /* Background color */
+}
